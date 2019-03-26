@@ -1,6 +1,6 @@
 # RaspPi-Notification-System
 
-##Desciption
+## Desciption
 The system uses curl command and PushBullet to send boot info to your phone when the Raspberry pi boots and even after it boots to send more info about the system status. PushBullet makes getting things on and off your phone easy and fast.
 
 ## Get Started
